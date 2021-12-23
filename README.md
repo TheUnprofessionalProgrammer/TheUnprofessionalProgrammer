@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning about NFT's and Cryptocurrency
 - 📫 You can send me mail on :- theunprofessionalprogrammerj@gmail.com
 - 👌 Youtube Channel Link : https://www.youtube.com/channel/UCiVmkvHcEWr-GoyEc6fxSuA
-
 <!---
 TheUnprofessionalProgrammer/TheUnprofessionalProgrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
