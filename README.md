@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheUnprofessionalProgrammer
 - 👀 I have a youtube channel (The Unprofessional Programmer), where you can practice your programming skills by creating websites, app, games, etc.
-- 🌱 I’m currently learning about NFT's and Cryptocurrency
+- 🌱 I’m currently learning about AI, Machine Learning, etc..
 - 📫 You can send me mail on :- theunprofessionalprogrammerj@gmail.com
 - 👌 Youtube Channel Link : https://www.youtube.com/channel/UCiVmkvHcEWr-GoyEc6fxSuA
 <!---
